@@ -1,4 +1,4 @@
-# Treinamento_-rvoreDecis-o
+# Treinamento_- ÁrvoreDecisão
 Treinamento de dataset utilizando árvores de decisão, para prever a recomendação de medicamentos de acordo com cada tipo conforme o histórico de registros  dos pacientes .
 O C4.5 é um algoritmo de aprendizado de máquina desenvolvido por Ross Quinlan em 1993, que usa uma abordagem baseada em árvores de decisão para classificação. Ele funciona construindo uma árvore de decisão a partir de um conjunto de dados de treinamento, onde cada nó da árvore representa um teste em uma das características do conjunto de dados. O C4.5 é uma extensão do algoritmo ID3, que permite a utilização de atributos contínuos e de valores faltantes nos dados.
 
